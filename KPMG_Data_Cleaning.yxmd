@@ -1,0 +1,1026 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2022.1">
+  <Nodes>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="228" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>KPMG_VI_New_raw_data_update_final (1).xlsx
+Query=`CustomerDemographic$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Note: The data and information in this document is reflective of a hypothetical situation and client. This document is to be used for KPMG Virtual Internship purposes only. " size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="F2" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="F3" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="F4" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="F5" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="F6" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="F7" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="F8" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="F9" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="F10" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="F11" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="F12" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="F13" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="F14" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+            <Field name="F15" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+            <Field name="F16" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+            <Field name="F17" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+            <Field name="F18" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+            <Field name="F19" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+            <Field name="F20" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+            <Field name="F21" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+            <Field name="F22" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+            <Field name="F23" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+            <Field name="F24" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+            <Field name="F25" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+            <Field name="F26" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="372" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>KPMG_VI_New_raw_data_update_final (1).xlsx
+Query=`CustomerAddress$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Note: The data and information in this document is reflective of a hypothetical situation and client. This document is to be used for KPMG Virtual Internship purposes only. " size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="V_String" />
+            <Field name="F2" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="V_String" />
+            <Field name="F3" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="V_String" />
+            <Field name="F4" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="V_String" />
+            <Field name="F5" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="V_String" />
+            <Field name="F6" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="V_String" />
+            <Field name="F7" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="F8" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="F9" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="F10" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="F11" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="F12" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="F13" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="F14" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="F15" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="F16" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="F17" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="F18" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="F19" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="F20" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="F21" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="F22" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="F23" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="F24" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="F25" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="F26" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="84" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>KPMG_VI_New_raw_data_update_final (1).xlsx
+Query=`Transactions$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Note: The data and information in this document is reflective of a hypothetical situation and client. This document is to be used for KPMG Virtual Internship purposes only. " size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="F2" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="F3" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="F4" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="F5" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="F6" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="F7" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="F8" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="F9" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="F10" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="F11" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="F12" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="F13" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="F14" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+            <Field name="F15" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+            <Field name="F16" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+            <Field name="F17" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+            <Field name="F18" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+            <Field name="F19" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+            <Field name="F20" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+            <Field name="F21" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+            <Field name="F22" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+            <Field name="F23" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+            <Field name="F24" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+            <Field name="F25" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+            <Field name="F26" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicRename.DynamicRename">
+        <Position x="258" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <RenameMode>FirstRow</RenameMode>
+          <Fields orderChanged="False">
+            <Field name="Note: The data and information in this document is reflective of a hypothetical situation and client. This document is to be used for KPMG Virtual Internship purposes only. " />
+            <Field name="F2" />
+            <Field name="F3" />
+            <Field name="F4" />
+            <Field name="F5" />
+            <Field name="F6" />
+            <Field name="F7" />
+            <Field name="F8" />
+            <Field name="F9" />
+            <Field name="F10" />
+            <Field name="F11" />
+            <Field name="F12" />
+            <Field name="F13" />
+            <Field name="F14" />
+            <Field name="F15" />
+            <Field name="F16" />
+            <Field name="F17" />
+            <Field name="F18" />
+            <Field name="F19" />
+            <Field name="F20" />
+            <Field name="F21" />
+            <Field name="F22" />
+            <Field name="F23" />
+            <Field name="F24" />
+            <Field name="F25" />
+            <Field name="F26" />
+            <Field name="*Unknown" />
+          </Fields>
+          <Expression />
+          <FirstRow>
+            <OnError>Warn</OnError>
+          </FirstRow>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="transaction_id" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="product_id" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="customer_id" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="transaction_date" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="online_order" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="order_status" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="brand" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="product_line" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="product_class" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="product_size" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="list_price" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="standard_cost" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="product_first_sold_date" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="V_String" />
+            <Field name="Field_14" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+            <Field name="Field_15" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+            <Field name="Field_16" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+            <Field name="Field_17" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+            <Field name="Field_18" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+            <Field name="Field_19" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+            <Field name="Field_20" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+            <Field name="Field_21" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+            <Field name="Field_22" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+            <Field name="Field_23" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+            <Field name="Field_24" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+            <Field name="Field_25" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+            <Field name="Field_26" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`Transactions$`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDynamicRename" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicRename.DynamicRename">
+        <Position x="258" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <RenameMode>FirstRow</RenameMode>
+          <Fields orderChanged="False">
+            <Field name="Note: The data and information in this document is reflective of a hypothetical situation and client. This document is to be used for KPMG Virtual Internship purposes only. " />
+            <Field name="F2" />
+            <Field name="F3" />
+            <Field name="F4" />
+            <Field name="F5" />
+            <Field name="F6" />
+            <Field name="F7" />
+            <Field name="F8" />
+            <Field name="F9" />
+            <Field name="F10" />
+            <Field name="F11" />
+            <Field name="F12" />
+            <Field name="F13" />
+            <Field name="F14" />
+            <Field name="F15" />
+            <Field name="F16" />
+            <Field name="F17" />
+            <Field name="F18" />
+            <Field name="F19" />
+            <Field name="F20" />
+            <Field name="F21" />
+            <Field name="F22" />
+            <Field name="F23" />
+            <Field name="F24" />
+            <Field name="F25" />
+            <Field name="F26" />
+            <Field name="*Unknown" />
+          </Fields>
+          <Expression />
+          <FirstRow>
+            <OnError>Warn</OnError>
+          </FirstRow>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="customer_id" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="first_name" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="last_name" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="gender" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="past_3_years_bike_related_purchases" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="DOB" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="job_title" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="job_industry_category" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="wealth_segment" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="deceased_indicator" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="default" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="owns_car" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="tenure" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="V_String" />
+            <Field name="Field_14" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+            <Field name="Field_15" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+            <Field name="Field_16" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+            <Field name="Field_17" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+            <Field name="Field_18" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+            <Field name="Field_19" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+            <Field name="Field_20" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+            <Field name="Field_21" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+            <Field name="Field_22" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+            <Field name="Field_23" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+            <Field name="Field_24" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+            <Field name="Field_25" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+            <Field name="Field_26" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerDemographic$`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDynamicRename" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicRename.DynamicRename">
+        <Position x="246" y="384" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <RenameMode>FirstRow</RenameMode>
+          <Fields orderChanged="False">
+            <Field name="Note: The data and information in this document is reflective of a hypothetical situation and client. This document is to be used for KPMG Virtual Internship purposes only. " />
+            <Field name="F2" />
+            <Field name="F3" />
+            <Field name="F4" />
+            <Field name="F5" />
+            <Field name="F6" />
+            <Field name="F7" />
+            <Field name="F8" />
+            <Field name="F9" />
+            <Field name="F10" />
+            <Field name="F11" />
+            <Field name="F12" />
+            <Field name="F13" />
+            <Field name="F14" />
+            <Field name="F15" />
+            <Field name="F16" />
+            <Field name="F17" />
+            <Field name="F18" />
+            <Field name="F19" />
+            <Field name="F20" />
+            <Field name="F21" />
+            <Field name="F22" />
+            <Field name="F23" />
+            <Field name="F24" />
+            <Field name="F25" />
+            <Field name="F26" />
+            <Field name="*Unknown" />
+          </Fields>
+          <Expression />
+          <FirstRow>
+            <OnError>Warn</OnError>
+          </FirstRow>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="customer_id" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="V_String" />
+            <Field name="address" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="V_String" />
+            <Field name="postcode" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="V_String" />
+            <Field name="state" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="V_String" />
+            <Field name="country" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="V_String" />
+            <Field name="property_valuation" size="255" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="V_String" />
+            <Field name="Field_7" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="Field_8" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="Field_9" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="Field_10" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="Field_11" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="Field_12" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="Field_13" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="Field_14" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="Field_15" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="Field_16" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="Field_17" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="Field_18" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="Field_19" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="Field_20" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="Field_21" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="Field_22" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="Field_23" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="Field_24" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="Field_25" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+            <Field name="Field_26" source="File: C:\Users\Laxmikant\Documents\KPMG Virtual Internship\KPMG_VI_New_raw_data_update_final (1).xlsx|||`CustomerAddress$`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDynamicRename" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings>
+        <Position x="450" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Check Box (135)">True</Value>
+          <Value name="Check Box (136)">True</Value>
+          <Value name="List Box (11)">"customer_id","first_name","last_name","gender","past_3_years_bike_related_purchases","DOB","job_title","job_industry_category","wealth_segment","deceased_indicator","default","owns_car","tenure","Field_14","Field_15","Field_16","Field_17","Field_18","Field_19","Field_20","Field_21","Field_22","Field_23","Field_24","Field_25","Field_26"</Value>
+          <Value name="Check Box (84)">True</Value>
+          <Value name="Check Box (117)">True</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">False</Value>
+          <Value name="Check Box (53)">False</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">False</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings>
+        <Position x="450" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Check Box (135)">True</Value>
+          <Value name="Check Box (136)">True</Value>
+          <Value name="List Box (11)">"transaction_id","product_id","customer_id","transaction_date","online_order","order_status","brand","product_line","product_class","product_size","list_price","standard_cost","product_first_sold_date","Field_14","Field_15","Field_16","Field_17","Field_18","Field_19","Field_20","Field_21","Field_22","Field_23","Field_24","Field_25","Field_26"</Value>
+          <Value name="Check Box (84)">False</Value>
+          <Value name="Check Box (117)">False</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">False</Value>
+          <Value name="Check Box (53)">False</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">False</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="546" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="standard_cost" selected="True" type="Float" size="4" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="546" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IF [gender] = &quot;Male&quot; THEN &quot;M&quot;  &#xA;elseif [gender] = &quot;Female&quot; then &quot;F&quot;&#xA;elseif [gender]=&quot;m&quot; then &quot;M&quot;&#xA;elseif [gender]=&quot;f&quot; then &quot;F&quot;&#xA;else &quot;Not Specified&quot;&#xA;endif " field="gender" size="255" type="V_String" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>gender = IF [gender] = "Male" THEN "M"  
+elseif [gender] = "Female" then "F"
+els...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="642" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="default" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="20">
+      <GuiSettings>
+        <Position x="342" y="390" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Check Box (135)">True</Value>
+          <Value name="Check Box (136)">True</Value>
+          <Value name="List Box (11)">"customer_id","address","postcode","state","country","property_valuation","Field_7","Field_8","Field_9","Field_10","Field_11","Field_12","Field_13","Field_14","Field_15","Field_16","Field_17","Field_18","Field_19","Field_20","Field_21","Field_22","Field_23","Field_24","Field_25","Field_26"</Value>
+          <Value name="Check Box (84)">True</Value>
+          <Value name="Check Box (117)">True</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">False</Value>
+          <Value name="Check Box (53)">False</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">False</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="23">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="726" y="390" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="customer_id" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>customer_id - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="24">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="738" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="customer_id" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>customer_id - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="25">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="642" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="customer_id" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>customer_id - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="32">
+      <GuiSettings Plugin="Insights">
+        <Position x="906" y="354" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <InsightFields>
+            <InsightGalleryID>
+            </InsightGalleryID>
+            <InsightDescription>C:\Users\LAXMIK~1\AppData\Local\Temp\Engine_1596_6776df5302805e45bce232046dc324ee_\Insight1\insightDescription.json</InsightDescription>
+            <Description>
+            </Description>
+            <InsightData>C:\Users\LAXMIK~1\AppData\Local\Temp\Engine_1596_6776df5302805e45bce232046dc324ee_\Insight1\insight.sqlite|||insightdata</InsightData>
+          </InsightFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxInsightsPluginEngine.dll" EngineDllEntryPoint="AlteryxInsights" />
+    </Node>
+    <Node ToolID="36">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.FindReplace.FindReplace">
+        <Position x="750" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldFind>customer_id</FieldFind>
+          <FieldSearch>customer_id</FieldSearch>
+          <ReplaceFoundField>first_name</ReplaceFoundField>
+          <FindMode>FindWhole</FindMode>
+          <NoCase value="True" />
+          <MatchWholeWord value="False" />
+          <ReplaceMode>Append</ReplaceMode>
+          <ReplaceMultipleFound value="True" />
+          <ReplaceAppendFields>
+            <Field field="first_name" />
+            <Field field="last_name" />
+            <Field field="gender" />
+            <Field field="past_3_years_bike_related_purchases" />
+            <Field field="DOB" />
+            <Field field="job_title" />
+            <Field field="job_industry_category" />
+            <Field field="wealth_segment" />
+            <Field field="deceased_indicator" />
+            <Field field="owns_car" />
+            <Field field="tenure" />
+          </ReplaceAppendFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFindReplace" />
+    </Node>
+    <Node ToolID="37">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.FindReplace.FindReplace">
+        <Position x="822" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldFind>customer_id</FieldFind>
+          <FieldSearch>customer_id</FieldSearch>
+          <ReplaceFoundField>address</ReplaceFoundField>
+          <FindMode>FindWhole</FindMode>
+          <NoCase value="True" />
+          <MatchWholeWord value="False" />
+          <ReplaceMode>Append</ReplaceMode>
+          <ReplaceMultipleFound value="True" />
+          <ReplaceAppendFields>
+            <Field field="address" />
+            <Field field="postcode" />
+            <Field field="state" />
+            <Field field="country" />
+            <Field field="property_valuation" />
+          </ReplaceAppendFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFindReplace" />
+    </Node>
+    <Node ToolID="39">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="1014" y="450" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File FileFormat="42" MaxRecords="">C:\Users\Laxmikant\Documents\KPMG Virtual Internship\Final data set1.tde</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <OutputOption>Overwrite</OutputOption>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Final data set1.tde</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="41">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="78" y="522" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="5" />
+          <Fields>
+            <Field name="State" />
+            <Field name="New" />
+          </Fields>
+          <Data>
+            <r>
+              <c>QLD</c>
+              <c>QLD</c>
+            </r>
+            <r>
+              <c>VIC</c>
+              <c>VIC</c>
+            </r>
+            <r>
+              <c>Victoria</c>
+              <c>VIC</c>
+            </r>
+            <r>
+              <c>NSW</c>
+              <c>NSW</c>
+            </r>
+            <r>
+              <c>New South Wales</c>
+              <c>NSW</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="42">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.FindReplace.FindReplace">
+        <Position x="438" y="402" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldFind>state</FieldFind>
+          <FieldSearch>State</FieldSearch>
+          <ReplaceFoundField>New</ReplaceFoundField>
+          <FindMode>FindAny</FindMode>
+          <NoCase value="False" />
+          <MatchWholeWord value="False" />
+          <ReplaceMode>Replace</ReplaceMode>
+          <ReplaceMultipleFound value="True" />
+          <ReplaceAppendFields />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFindReplace" />
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="929" y="203" width="152" height="180" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Container 35</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="True" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="30">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+            <Position x="954" y="252" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <File MaxRecords="" FileFormat="25">C:\Users\Laxmikant\Documents\KPMG Virtual Internship\Joined_Data.xlsx|||Joined_Clean</File>
+              <Passwords />
+              <FormatSpecificOptions>
+                <PreserveFormat>False</PreserveFormat>
+                <SkipFieldNames>False</SkipFieldNames>
+                <OutputOption>Overwrite</OutputOption>
+              </FormatSpecificOptions>
+              <MultiFile value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Joined_Data.xlsx
+Query=Joined_Clean</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="329" y="54" width="152" height="24" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Container 15</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="True" />
+          <Folded value="True" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="10">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="354" y="110" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="transaction_id" selected="True" />
+                <SelectField field="product_id" selected="True" />
+                <SelectField field="customer_id" selected="True" />
+                <SelectField field="transaction_date" selected="True" />
+                <SelectField field="online_order" selected="True" />
+                <SelectField field="order_status" selected="True" />
+                <SelectField field="brand" selected="True" />
+                <SelectField field="product_line" selected="True" />
+                <SelectField field="product_class" selected="True" />
+                <SelectField field="product_size" selected="True" />
+                <SelectField field="list_price" selected="True" />
+                <SelectField field="standard_cost" selected="True" type="Float" size="4" />
+                <SelectField field="product_first_sold_date" selected="True" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="11">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+            <Position x="450" y="103" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Expression>!IsNull([online_order]) and !IsNull([brand])</Expression>
+              <Mode>Custom</Mode>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>!IsNull([online_order]) and !IsNull([brand])</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+        </Node>
+      </ChildNodes>
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="8" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="9" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="6" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="13" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="12" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="20" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output26" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="Output26" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="19" Connection="Output" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="Output26" />
+      <Destination ToolID="42" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="41" Connection="Output" />
+      <Destination ToolID="42" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="23" Connection="Output" />
+      <Destination ToolID="37" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="36" Connection="Output" />
+      <Destination ToolID="37" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="24" Connection="Output" />
+      <Destination ToolID="36" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="25" Connection="Output" />
+      <Destination ToolID="36" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="37" Connection="Output" />
+      <Destination ToolID="32" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="37" Connection="Output" />
+      <Destination ToolID="39" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="42" Connection="Output" />
+      <Destination ToolID="23" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Output" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>KPMG_Data_Cleaning</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="cf61ac37-b38e-4049-87ac-77cbd79f4161" />
+      <Telemetry>
+        <PreviousWorkflowId value="5d028f20-7225-4e3d-979b-eb41e0d8dd88" />
+        <OriginWorkflowId value="5d028f20-7225-4e3d-979b-eb41e0d8dd88" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

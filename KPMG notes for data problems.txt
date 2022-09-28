@@ -1,0 +1,25 @@
+Transactions
+Online Order: Has blank values
+
+Brand: Has blanks , other columns such as product line, product class, product size , standard cost, product first sold date are dependent
+
+Standard cost: Its in string format should be in numeric( can be cleaned from our end)
+
+
+Customer Demographic:
+Last name: has blanks
+
+Gender: Proper formatting is not done ( can be standardized at our end)
+
+DOB: 1 record seems out of scope, has blanks
+
+Job Title: Has Blanks
+
+Default: Has lot of garbage values (invalid char)
+
+Tenure: Information for tenure is in months or years is not specified (need clarity)
+
+Customer Address:
+State: Abbrivations are present - needs Standarization( autofill values can be used to collect details)
+
+Property Valuation: Unit& demoniation is not clearly specified
